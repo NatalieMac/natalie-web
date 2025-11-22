@@ -1,0 +1,12 @@
+/*
+Theme Name:     NatalieMacConnect
+Description:    Custom child theme of Connect
+Author:         NatalieMac
+Template:       organic-connect
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+.social-icons li a[href*="youtube.com"]::before {
+    content: '\f167';
+}
